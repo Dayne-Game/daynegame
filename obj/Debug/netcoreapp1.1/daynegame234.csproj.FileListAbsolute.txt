@@ -1,0 +1,8 @@
+/Users/daynegame/Desktop/daynegame234/bin/Debug/netcoreapp1.1/daynegame234.deps.json
+/Users/daynegame/Desktop/daynegame234/bin/Debug/netcoreapp1.1/daynegame234.runtimeconfig.json
+/Users/daynegame/Desktop/daynegame234/bin/Debug/netcoreapp1.1/daynegame234.runtimeconfig.dev.json
+/Users/daynegame/Desktop/daynegame234/bin/Debug/netcoreapp1.1/daynegame234.dll
+/Users/daynegame/Desktop/daynegame234/bin/Debug/netcoreapp1.1/daynegame234.pdb
+/Users/daynegame/Desktop/daynegame234/obj/Debug/netcoreapp1.1/daynegame234.AssemblyInfo.cs
+/Users/daynegame/Desktop/daynegame234/obj/Debug/netcoreapp1.1/daynegame234.dll
+/Users/daynegame/Desktop/daynegame234/obj/Debug/netcoreapp1.1/daynegame234.pdb
